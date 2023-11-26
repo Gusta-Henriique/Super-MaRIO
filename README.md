@@ -24,10 +24,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ##  💻 Projeto
 
 Uma tela onde mostro um pouco sobre o filme - Super Mario Bros.
-
-##  🔖Layout
-
-
-## : memo : Licença 
-
-Esse projeto está sob a licença MIT.
